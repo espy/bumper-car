@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "release": "release-it"
+    "minor": "release-it minor -n",
+    "major": "release-it major -n"
   },
   "repository": {
     "type": "git",
