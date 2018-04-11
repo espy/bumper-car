@@ -1,0 +1,24 @@
+{
+  "name": "bumper-car",
+  "version": "0.1.0",
+  "description": "A test package. Nothing to see here.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "release-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/espy/bumper-car.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/espy/bumper-car/issues"
+  },
+  "homepage": "https://github.com/espy/bumper-car#readme",
+  "devDependencies": {
+    "release-it": "^7.3.0"
+  }
+}
