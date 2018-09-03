@@ -1,6 +1,6 @@
 {
   "name": "bumper-car",
-  "version": "13.0.0",
+  "version": "13.1.0",
   "description": "A test package. Nothing to see here.",
   "main": "index.js",
   "scripts": {
